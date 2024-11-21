@@ -1,22 +1,9 @@
-## Hi there 👋 I'm Saahas
-
 <h2 align="center">
-  hi there, i'm arnav! 🚀
+  Hi there, I'm Saahas! 🚀
 </h2>
 
 <p align="center">
   Software developer that likes to build things to help people.<br> I like <b>machine learning</b>, <b>full stack web dev</b>, <b>data science</b>, and <b>financial technology</b>.<br> Studying computer science and statistics at <b>Duke University</b>.
-</p>
-
-<p align="center">
-  here are some things i've messed with...
-</p>
-<h2 align="center">
-  hi there, i'm arnav! 🚀
-</h2>
-
-<p align="center">
-  software developer that likes to build things.<br> i like <b>full stack web dev</b>, <b>cloud computing</b> and <b>machine learning</b>.<br> studying ece/cs/philosophy at <b>duke university</b>.
 </p>
 
 <p align="center">
